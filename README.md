@@ -11,7 +11,9 @@ https://arxiv.org/pdf/2008.09047.pdf Pose2Mesh: Graph Convolutional Network for 
 **Implementation:**
 
 TeamC used the AWS EC2 p2.xlarge (original Pose2Mesh used Google TPUs)
+
 Deep Learning AMI (Ubuntu 18.04) Version 34.0 AMI 
+
 4vCPUs
 
 **Downloading data:**
